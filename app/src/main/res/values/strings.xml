@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Desafio Luiza Labs</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque imperdiet justo quis enim aliquam imperdiet.</string>
 </resources>
